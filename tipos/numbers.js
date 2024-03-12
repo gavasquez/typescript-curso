@@ -9,7 +9,7 @@
     else {
         console.log('Nos salvamos');
     }
-    /* avengers = 123 */
     avengers = Number('55');
     console.log({ avengers: avengers });
 })();
+//# sourceMappingURL=numbers.js.map

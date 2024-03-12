@@ -5,3 +5,4 @@
     };
     error('hola');
 })();
+//# sourceMappingURL=never.js.map
